@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import './globals.css';
+import './css/navigation.css'
 
 export default function Layout({ children }) {
     return (
